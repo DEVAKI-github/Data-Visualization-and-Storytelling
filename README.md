@@ -1,4 +1,5 @@
 OBJECTIVE: Create visualizations that convey a compelling story.
+
 TOOL: Power BI.
 
 TASK PERFORMED: PIZZA HUT SALES ANALYSIS DASHBOARD.
